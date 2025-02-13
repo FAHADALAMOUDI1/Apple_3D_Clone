@@ -1,9 +1,12 @@
 # 3D Apple Clone
 
+<img width="1698" alt="Screenshot 1446-08-13 at 7 32 13 AM" src="https://github.com/user-attachments/assets/2b3e29eb-1060-4567-97e6-ce8cdd96ddf8" />
+
 ## Overview
 
 The **3D Apple Clone** is a web application designed to replicate the interactive and visually appealing product showcase seen on Apple's official website. It combines modern front-end technologies such as **React**, **Tailwind CSS**, **GSAP**, and **Three.js** to create a seamless and immersive user experience.
 Users can interact with 3D models of Apple products, explore their features, and enjoy smooth animations and transitions throughout the site.
+
 
 
 ## Features
